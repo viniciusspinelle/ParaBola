@@ -1,7 +1,7 @@
 ﻿namespace ParaBola
 {
     partial class Form1
-    {
+    {   ///teste
         /// <summary>
         /// Required designer variable.
         /// </summary>
